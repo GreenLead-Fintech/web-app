@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
-<h1 align="center">We are developing and supporting quality Software Solutions to millions of clients.
+<h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office, Canada.</h1>
+<h1 align="center">We are developing and supporting Ebay Black Friday Project. Landmark is a software development company
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
 	We also support the automation of projects via specialised systems.
 </h1>
